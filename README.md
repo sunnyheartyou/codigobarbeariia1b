@@ -1,2 +1,2 @@
-# codigobarbeariia1b
+# codigobarbarbearia
 Repositório Barbearia Alura
